@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+ 
+
+}
+
+.country-box{
+ 
+  
+  padding: 16px;
+ 
+}
+.form{
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 30%;
+  margin-top: 100px;
+   
+  background-color: white;
+  padding: 24px;
+  border-radius: 16px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.country{
+  padding: 8px;
+  margin: 8px;
+  
+   
+   
+  font-size: 16px;
+  color: black;
+  border-radius: 8px;
+}
+.btn-submit{
+  padding: 8px;
+  margin: 8px;
+   
+  color: white;
+  background-color: rgb(240, 63, 32);
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 0px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+ 
